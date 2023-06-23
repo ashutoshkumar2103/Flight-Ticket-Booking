@@ -76,7 +76,7 @@
         
         <div class="text">
           <span>Start your journey with us. <br> Life is a journey, enjoy the flight</span>
-          <a href=""><button>Search flights</button></a>
+          <a href="user-login.jsp"><button>Search flights</button></a>
         </div>
         </div>
   </section>
